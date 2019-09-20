@@ -1,2 +1,8 @@
 # demo
-eCommerce M.E.A.N stack
+#eCommerce 
+#Mongo 
+#Express 
+#Angular 
+#Nodejs
+#Redis
+#Socket(Socket.io, Websocket)
